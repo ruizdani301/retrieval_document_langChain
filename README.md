@@ -1,2 +1,2 @@
-# retrieval_document_langChain
-uso de langChain para obtener informaciòn relevante de un documento
+# retrieval_document_langchain
+Prueba de concepto usando langchain 
